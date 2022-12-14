@@ -1,0 +1,19 @@
+{
+  "name": "AI assistant",
+  "description": "Frontend part for school project",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "YAS QUEEN SLAY"
+  },
+  "icons": {
+    "16": "2492765.png",
+    "48": "2492765.png",
+    "128": "2492765.png"
+  },
+  "permissions": [
+    "scripting"
+  ],
+  "host_permissions": ["*://*/"]
+}
